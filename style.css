@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(159, 149, 229);
+}
+
+h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+#show_sketch {
+    float: right;
+
+}
+
+#score {
+    margin: left;
+    font-size: 25px;
+}
+
+#time {
+    float: right;
+    font-size: 25px;
+}
+
+#sketch_name {
+    color: white;
+
+}
